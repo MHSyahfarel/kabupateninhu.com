@@ -1,0 +1,13 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #efe80a;
+}
+
+.potensi {
+  padding-top: 2rem 1rem;
+  background-color: #efe80a;
+}
